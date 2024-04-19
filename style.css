@@ -1,0 +1,42 @@
+.button
+{
+    height: 50px;
+    width: 50px;
+    border: transparent;
+    
+    border-radius: 4px;
+    text-align: center;
+    margin-top:3px;
+    font-size: 20px;
+    
+}
+.button:hover
+{
+background-color: rgb(228, 227, 227);
+border: 2px solid black;
+}
+.in
+{
+    height: 30px;
+    width: 200px;
+    border: 2px solid grey;
+    font-size: 15px;
+    color: blue;
+}
+.special
+{
+    color: blue;
+    
+}
+.isequal
+{
+    border-radius: 50%;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+.isequal:hover
+{
+    background-color: rgb(142, 142, 249);
+    border: none;
+}
